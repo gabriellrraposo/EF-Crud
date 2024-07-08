@@ -250,3 +250,4 @@ A:\Gabriel\Programação\C#\CrudEF\CrudEF\bin\Debug\net8.0\runtimes\win\lib\net7
 A:\Gabriel\Programação\C#\CrudEF\CrudEF\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 A:\Gabriel\Programação\C#\CrudEF\CrudEF\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 A:\Gabriel\Programação\C#\CrudEF\CrudEF\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+A:\Gabriel\Programação\C#\CrudEF\CrudEF\obj\Debug\net8.0\CrudEF.sourcelink.json
