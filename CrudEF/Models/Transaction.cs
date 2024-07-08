@@ -32,6 +32,7 @@ namespace CrudEF.Models
         public string SWIFTCode { get; set; }
         [Required(ErrorMessage = "This field is required")]
         public int Amount { get; set; }
+        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]
         public DateTime Date { get; set; }
 
     }
