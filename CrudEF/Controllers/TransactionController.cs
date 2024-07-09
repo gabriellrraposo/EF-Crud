@@ -81,9 +81,10 @@ namespace CrudEF.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var transaction = await _context.Transactions.FindAsync(id);
-            
+            if (transaction != null)
+            {
                 _context.Transactions.Remove(transaction);
-           
+            }
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
